@@ -1,10 +1,13 @@
-Crée en UIKit une application ToDoList em MVP.
+**Work in progress**
 
- L'application se structurera autour de trois écrans distincts :
- - une liste des tâches  -> Fait
- - le détail d'une tâche  -> WIP
- - l'ajout d'une nouvelle tâche
- 
-Depuis l'application, vous devrez pouvoir consulter la liste des tâches, les modifier, les supprimer et en ajouter de nouvelles.
+### Create a ToDoList application in MVP using UIKit.
 
-Les taches sont disponible sur un AirTable
+The application will be structured around three distinct screens:
+
+- A list of tasks -> Done
+- Task details -> WIP
+- Adding a new task
+
+From the application, you should be able to view the list of tasks, edit, delete, and add new ones.
+
+The tasks are available on AirTable.
